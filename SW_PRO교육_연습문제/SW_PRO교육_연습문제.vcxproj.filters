@@ -21,5 +21,8 @@
     <ClCompile Include="maxProfit.cpp">
       <Filter>소스 파일\2023-02-27</Filter>
     </ClCompile>
+    <ClCompile Include="magnetic.cpp">
+      <Filter>소스 파일\2023-02-27</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
